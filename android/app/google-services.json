@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664226446806",
+    "project_id": "equinox-kip",
+    "storage_bucket": "equinox-kip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664226446806:android:74aed1c9c57e1e63e17877",
+        "android_client_info": {
+          "package_name": "com.equinox.kip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664226446806-mn3u7uah0limvp73rpj02d573m1fbk4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC29VlwT6Yf8IASOXqMZjHhyqU0-mYqkkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664226446806-mn3u7uah0limvp73rpj02d573m1fbk4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
